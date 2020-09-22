@@ -1,12 +1,14 @@
 body {
-  background-color: #f16059;
+  background-color:#a559f1;
+  background: url('C:/Users/ammu/Desktop/101-amitha-project/102-lol_cat_clock/clock.jpg') no-repeat;
+  background-size: cover;
 }
 .page {
   width: 80%;
   max-width: 960px;
   margin: 50px auto;
   text-align: center;
-  background-color: #f16059;
+  background-color: #4f2678;
   border-radius: 5px;
 }
 body {
@@ -31,6 +33,7 @@ h4 #clock {
 }
 h1, h2, h3, h6 {
   font-family: 'Bungee Shade', cursive;
+  color: pink;
 }
 
 blockquote {
