@@ -1,6 +1,7 @@
 body {
   background-color: #f16059;
   background-image: url('images-icons/kitty.jpg');
+  background-repeat: repeat-y;
 
 }
 .page {
